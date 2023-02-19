@@ -1,0 +1,205 @@
+/* Geral */
+* {
+    padding: 0%;
+    margin: 0%;
+    background-color: darkblue;
+}
+body {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    margin-top: 3px;
+    background-color: rgb(161, 6, 6);
+    color: white;
+    width: 385px;
+    height:fit-content;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+option {
+    background-color: gainsboro;
+    color: black;
+}
+
+/* Página index.php */
+.day {
+    background-color: white;
+    color: black;
+    height: 5%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+.center {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.logo {
+    margin-top: 5%;
+}
+.main {
+    margin-top: 10%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 420px;
+}
+.red {
+    background-color: rgb(161, 6, 6);
+    width: 390px;
+    height:fit-content;
+}
+.bold {
+    margin-top: 3px;
+    background-color: rgb(161, 6, 6);
+    color: white;
+    height:50px;
+    font-size: 65px;
+    display: flex;
+    justify-content: center;
+}
+.field {
+    margin-top: 2%;
+    margin-left: 5%;
+    border: none;
+    background-color: white;
+    color: darkgray;
+    font-size: large;
+    height: 9%;
+}
+.line {
+    margin-left: 5%;
+    background-color: grey;
+    width: 90%;
+    height: 1px;
+    display: flex;
+}
+.brand {
+    margin-top: 2%;
+    margin-left: 5%;
+    background-color: gainsboro;
+    color: black;
+    font-size: larger;
+    width: 90%;
+    height: 13%;
+    display: flex;
+}
+.button {
+    margin-top: 2%;
+    margin-left: 5%;
+    background-color: darkblue;
+    width: 90%;
+    height: 13%;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+.extra {
+    margin-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.brand_logo {
+    margin-top: 2%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.marketing {
+    background-color: rgb(161, 6, 6);
+}
+.extra_2 {
+    margin-top: 1%;
+    margin-left: 13%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.msg {
+    font-size: 35px;
+    width: fit-content;
+    height: 50px;
+}
+.footer {
+    margin-top: 4%;
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 175px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.isso {
+    background-color: white;
+    color: black;
+    width: fit-content;
+}
+
+/* Página end.php */
+.end {
+    margin: 20%;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.p_end {
+    background-color: rgb(161, 6, 6);
+    width: fit-content;
+    color: white;
+    font-size: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Página de admin.php */
+.main_admin {
+    margin-top: 10%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 40%;
+}
+.field_admin {
+    margin-left: 5%;
+    border: none;
+    background-color: white;
+    color: darkgray;
+    font-size: large;
+}
+.button {
+    margin-bottom: 2%;
+    margin-left: 5%;
+    background-color: darkblue;
+    width: 90%;
+    height: 13%;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* Página table.php */
+.table {
+    margin-top: 2%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
