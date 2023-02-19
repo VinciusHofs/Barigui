@@ -5,4 +5,4 @@
 # 3: Exporte o banco de dados (arquivo SQL) chamado "barigui" para a página localhost (mantendo o mesmo nome do arquivo);
 # 4: Copie a pasta barigui e depois vá ao disco local em documentos, entre na pasta "XAMMP", depois na pasta "htdocs" e cole a pasta;
 # 5: Por fim, no seu navegador digite por "loocalhost/teste" e a página inicial será aberta.
-# OBS: Caso queira acessar a página de administrador para verificar as solicitações, preencha o campo usuário com "admin13579" e o campo senha com "24680135".
+# OBS: Caso queira acessar a página de administrador para verificar as solicitações,digite "localhost/teste/admin.php" e preencha o campo usuário com "admin13579" e o campo senha com "24680135".
