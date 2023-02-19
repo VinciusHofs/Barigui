@@ -1,4 +1,4 @@
-# Para daar run nas telas a seguir siga o passo a passo abaixo;
+# Para dar run nas telas a seguir siga o passo a passo abaixo;
 # OBS: Caso não tenha o aplicativo XAMPP Control Panel instalado, instale-o;
 # 1: Abra o XAMPP dê start nos módulos "Apache" e "MySQL";
 # 2: Abra seu navegador e pesquise por localhost;
